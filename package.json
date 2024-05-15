@@ -1,14 +1,15 @@
 {
-  "name": "cypress-e2e-tests",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "cypress": "^13.9.0"
-  }
+	"name": "cypress-e2e-tests",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"cypress": "^13.9.0",
+		"@applitools/eyes-cypress": "^3.44.2"
+	}
 }
